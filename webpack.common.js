@@ -18,9 +18,6 @@ module.exports = {
       filename: './index.html',
     }),
   ],
-  devServer: {
-    port: 9000,
-  },
   module: {
     rules: [
       {
